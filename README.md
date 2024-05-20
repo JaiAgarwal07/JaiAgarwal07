@@ -52,5 +52,4 @@ The first computer "bug" was an actual bug! In 1947, Grace Hopper, a pioneering 
 </div>
 
 
-- 📫 How to reach me: ...
 
