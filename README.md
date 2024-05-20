@@ -1,11 +1,17 @@
 ### Hi there! I'm 👋
-**JaiAgarwal07/JaiAgarwal07** 
+**JaiAgarwal07** 
 
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- **Developing some interesting thing**
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **HE/him**
+- ⚡ Fun fact: ...### Fun Fact
+
+Did you know? 🧠
+
+The first computer "bug" was an actual bug! In 1947, Grace Hopper, a pioneering computer scientist, found a moth stuck in a relay of the Harvard Mark II computer. She taped the moth into her logbook and labeled it as the "first actual case of bug being found," coining the term "debugging"!
+
 -->
 <p align="left">Hello World!!</p>
 
