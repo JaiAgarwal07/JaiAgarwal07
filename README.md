@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: ...
 - **HE/him**
-- ⚡ Fun fact: ...### Fun Fact
+- ⚡ Fun fact: ...
 
 Did you know? 🧠
 
