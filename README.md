@@ -45,7 +45,7 @@ The first computer "bug" was an actual bug! In 1947, Grace Hopper, a pioneering 
   <a href="https://www.linkedin.com/in/jai-agarwal-076728227" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="jaiagarwal2002@gmail.com">
+  <a href=mailto:"jaiagarwal2002@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 
