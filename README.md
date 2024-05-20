@@ -1,8 +1,8 @@
 ### Hi there! I'm 👋
-**JaiAgarwal07**  
+**Jai Agarwal**  
    
 - 💬 Ask me about ...
-- **Developing some interesting thing**
+- **Developing Some interesting things**
 
 - 😄 Pronouns: ...
 - **HE/him**
