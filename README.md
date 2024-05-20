@@ -38,6 +38,8 @@ The first computer "bug" was an actual bug! In 1947, Grace Hopper, a pioneering 
 
 </div>
 
+
+- 📫 How to reach me: ...
 ###
 <div align="left">
   <a href="https://www.linkedin.com/in/jai-agarwal-076728227" target="_blank">
@@ -51,22 +53,4 @@ The first computer "bug" was an actual bug! In 1947, Grace Hopper, a pioneering 
 
 
 - 📫 How to reach me: ...
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-agarwal-076728227)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jaiagarwal2002@gmail.com)
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
